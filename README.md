@@ -42,4 +42,4 @@ Lab 29: Routing and Component Composition
 
 #### Documentation
 
-![Routing and Component Composition Diagram](https://codesandbox.io/s/lab-29-assignment-3-ipo9l) Please navigate to ```assets/assignmentOnetoThreeUML.JPG``` in any of the above links to see the UML/Data-Flow diagram.
+[Routing and Component Composition Diagram](https://codesandbox.io/s/lab-29-assignment-3-ipo9l) Please navigate to ```assets/assignmentOnetoThreeUML.JPG``` in any of the above links to see the UML/Data-Flow diagram.
